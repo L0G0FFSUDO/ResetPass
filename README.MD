@@ -14,10 +14,10 @@ apt-get install expect
 
 
 2. troque as variaveis do programa ResetPassword.sh
+
 $NOME = nome do usuario
 
-$ANTIGA = SENHA ANTIGA DO USUARI
-O
+$ANTIGA = SENHA ANTIGA DO USUARIO
 #mesmo parametro é utilizado para acessar o ssh
 
 
