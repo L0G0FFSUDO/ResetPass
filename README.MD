@@ -1,4 +1,7 @@
-﻿Requisitos
+﻿
+ #Redefinição de senha massiva de senha linux.
+ 
+ Requisitos
 
 
 sshpass
